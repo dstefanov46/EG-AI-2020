@@ -24,7 +24,8 @@ inner workings of the files is provides inside of them):
 Note: We plot our electrical network in 2 ways: 'plotly_plot' and 'pandapower_plot'. As we are not sure yet which way is 
 faster, we've retained both types of plotting so far. Of course, later on we should use only one of them.
 
-I hope this info is a good start. In case, you need extra code or data related to this project, you can check the 
-Sharepoint folder on the following [link](https://ovdes.sharepoint.com/sites/2020egai/Shared%20Documents/Forms/AllItems.aspx?viewid=5d4f50f3%2D122b%2D4a5c%2Db61b%2Ddd41b6ca8b4a&id=%2Fsites%2F2020egai%2FShared%20Documents%2Fproject%20%2D%20demo).
-
-For any questions or problems with the repo, write to this e-mail: *dimitar.stefanov@ovdes.onmicrosoft.com*. 
+---
+### Update
+The data in folders **'.shp'**, **'measurements'** and **'network'** has been removed. In case you would like to test the
+workings of the Dash app with this data, write an e-mail to:*dimitar.stefanov@ovdes.onmicrosoft.com*. All other 
+questions or requests for this repo should also be forwarded to the above mentioned e-mail.
