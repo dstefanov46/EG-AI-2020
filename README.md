@@ -1,5 +1,3 @@
-### README.MD
-
 This is a repo for the Dash app developed during the *EG AI 2020* project.
 
 To recreate the environment in which the code for this repo was created, run:
